@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Friend 👋
 
 <!--
 **Prinzivalle/Prinzivalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prinzivalle&layout=compact&theme=dark&langs_count=6" />
 </a>
+
+<br/><br/>
+
+<p align="center">
+  <img src="22b22287602523.5dbd29081561d.gif" alt="animated" />
+</p>
+
