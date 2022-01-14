@@ -1,6 +1,6 @@
 ### Hello Friend 👋
 
-I am 24 years old and I'm currently studying in the last year of master degree in Control Engineering at Sapienza University in Rome.
+I am 24 years old, I am a Control Engineer and Computer Science Engineer. Currently working as System Engineer at Thales Alenia Space Italia.
 
 Open to collaborations and new experiences in ML, robotics and automation projects in general.
 
